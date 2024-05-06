@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @kamalprajapat21
-- 👀 I’m interested in web-develobment & blockchain develobment...
-- 🌱 I’m currently learning .web-develobment.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..kamalprajapat7117@gmail.com.
+Hi there, I'm Kamal Prajapat! 👋
+I'm a passionate learner interested in web development and blockchain technology.
 
-<!---
-kamalprajapat21/kamalprajapat21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently, I'm diving deep into the world of web development, exploring various technologies and frameworks to create exciting projects.
+
+💼 I'm open to collaboration opportunities where I can contribute to innovative projects and learn from others in the development community.
+
+📫 You can reach me via email at kamalprajapat7117@gmail.com. Feel free to connect with me to discuss projects, share ideas, or just say hello!
+
