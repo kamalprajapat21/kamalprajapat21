@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Kamal Prajapat!
 
-![Kamal's Banner](https://th.bing.com/th/id/OIP.3yQJRieggXIyGo-oNjisUgHaEo?pid=ImgDet&w=195&h=122&c=7&dpr=1.4/1000x250.png?text=Welcome+to+My+GitHub+Profile)
+![Kamal's Banner](https://nerdlowdown.wordpress.com/wp-content/uploads/2015/08/iron-man-banner.jpg/1000x250.png?text=Welcome+to+My+GitHub+Profile)
 
 ## 🚀 About Me
 💻 Passionate **Software Developer** with a flair for **Frontend & Backend Development** and a growing fascination with **Blockchain Technology**. I love turning ideas into reality through code and building applications that solve real-world challenges.
