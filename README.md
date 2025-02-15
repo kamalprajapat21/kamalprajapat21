@@ -1,6 +1,7 @@
 # 👋 Hey there, I'm Kamal Prajapat!
 
-[![Kamal's Banner](https://nerdlowdown.wordpress.com/wp-content/uploads/2015/08/iron-man-banner.jpg/1000x250.png?text=Welcome+to+My+GitHub+Profile)](https://nerdlowdown.wordpress.com/wp-content/uploads/2015/08/iron-man-banner.jpg)
+![Dummy Poster](https://th.bing.com/th/id/R.c6c66cf9e96d8d50e9df41d3aec7e8bc?rik=Tzs%2bc5bSpZ3b5g&riu=http%3a%2f%2fd2r9epyceweg5n.cloudfront.net%2fstores%2f001%2f404%2f866%2fproducts%2f13411-21665f2df5d11fa35716103062942613-640-0.jpg&ehk=HABL6iPPlb7m2Poa3kkhbiM4VI7SwTvY%2frKLD1%2bBFZU%3d&risl=&pid=ImgRaw&r=0)
+
 
 ## 🚀 About Me
 💻 Passionate **Software Developer** with a flair for **Frontend & Backend Development** and a growing fascination with **Blockchain Technology**. I love turning ideas into reality through code and building applications that solve real-world challenges.
@@ -40,7 +41,7 @@
 
 ---
 
-## 📮 Let's Connect
+## 📬 Let's Connect
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamalprajapat7117@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamalprajapat21)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 ---
