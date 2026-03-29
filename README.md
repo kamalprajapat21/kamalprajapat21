@@ -4,16 +4,16 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=KAMAL%20PRAJAPAT&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff)
 
 <!-- Multi-line Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Software+Architect+%F0%9F%9A%80;10%2B+Years+Building+Enterprise+Systems;Full-Stack+%7C+Blockchain+%7C+Cloud+Native+%7C+DevOps;Turning+Ideas+Into+Scalable+Reality+%F0%9F%92%BB%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Software+Developer+%F0%9F%9A%80;Building+Scalable+Web+%26+Blockchain+Solutions;MERN+Stack+%7C+Web3+%7C+Cloud+%7C+DevOps;Turning+Ideas+Into+Reality+%F0%9F%92%BB%E2%9C%A8)](https://git.io/typing-svg)
 
 <!-- Animated Coding GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813108-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
 <!-- Animated Status Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Enterprise_Architecture-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Experience-10%2B_Years-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Status-Available_for_Consulting-4ECB71?style=for-the-badge&logoColor=white&labelColor=000000" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_Development-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Experience-1%2B_Year-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-4ECB71?style=for-the-badge&logoColor=white&labelColor=000000" alt="Status"/>
 </p>
 
 <!-- Animated Visitor Counter -->
@@ -49,39 +49,37 @@
 
 ```typescript
 const kamalPrajapat = {
-    title: "Senior Software Architect & Tech Lead",
-    experience: "10+ years",
-    location: "🌍 Building the future remotely",
+    title: "Full-Stack Software Developer",
+    experience: "1+ year",
+    location: "🌍 India",
     
-    code: ["TypeScript", "JavaScript", "Solidity", "Python", "Go", "Rust"],
+    code: ["JavaScript", "TypeScript", "Solidity", "Python"],
     
     expertise: {
-        frontend: ["React", "Next.js", "Vue.js", "Three.js", "WebGL"],
-        backend: ["Node.js", "Express", "NestJS", "GraphQL", "gRPC"],
-        blockchain: ["Ethereum", "Solidity", "Web3", "DeFi", "Smart Contracts"],
-        cloud: ["AWS", "Azure", "GCP", "Terraform", "Kubernetes", "Docker"],
-        databases: ["MongoDB", "PostgreSQL", "Redis", "Cassandra", "DynamoDB"],
-        architecture: ["Microservices", "Event-Driven", "Serverless", "DDD"]
+        frontend: ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
+        blockchain: ["Ethereum", "Solidity", "Web3.js", "Smart Contracts"],
+        cloud: ["AWS", "Docker", "CI/CD"],
+        databases: ["MongoDB", "PostgreSQL", "Redis"],
+        tools: ["Git", "VS Code", "Postman", "GitHub Actions"]
     },
     
-    achievements: {
-        projectsDelivered: "50+",
-        teamLeadership: "5+ years",
-        developersMenutored: "30+",
-        systemScale: "10M+ requests/day"
+    learning: {
+        current: ["Advanced Blockchain", "AWS Cloud Architecture", "System Design"],
+        next: ["Kubernetes", "Microservices", "Rust"]
     },
     
-    currentMission: "Architecting scalable systems & empowering engineering teams",
-    motto: "Build systems that scale, teams that thrive, products that matter",
-    funFact: "I debug in production... but only on Fridays 😎"
+    currentMission: "Building scalable applications & contributing to open source",
+    motto: "Code with passion, learn with curiosity, build with purpose",
+    funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
 
-🔹 **Principal Engineer** architecting enterprise-grade applications at scale  
-🔹 **Blockchain Expert** building decentralized systems & DeFi protocols  
-🔹 **Cloud Architect** designing resilient infrastructure on AWS/Azure/GCP  
-🔹 **Tech Leader** mentoring high-performing engineering teams  
-🔹 **Open Source Advocate** contributing to the developer community
+🔹 **Passionate Developer** building modern web applications with MERN stack  
+🔹 **Blockchain Enthusiast** exploring Web3 and decentralized applications  
+🔹 **Fast Learner** constantly upgrading skills and embracing new technologies  
+🔹 **Problem Solver** turning complex challenges into elegant solutions  
+🔹 **Open Source Contributor** giving back to the developer community
 
 <br clear="right"/>
 
@@ -96,10 +94,10 @@ const kamalPrajapat = {
 <div align="center">
 
 ### **💻 Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte,tailwind,sass,bootstrap,materialui&theme=dark&perline=12" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,materialui&theme=dark&perline=10" />
 
 ### **⚙️ Backend Development**
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,apollo,prisma,mongodb,postgres,redis,mysql,firebase&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgres,redis,mysql,firebase&theme=dark&perline=9" />
 
 ### **🔗 Blockchain & Web3**
 <img src="https://skillicons.dev/icons?i=solidity,ethereum,ipfs&theme=dark&perline=3" />
@@ -107,16 +105,16 @@ const kamalPrajapat = {
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
 <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" />
 
 ### **☁️ Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,github,gitlab,nginx,linux&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=aws,docker,github,gitlab,nginx,linux&theme=dark&perline=6" />
 
 ### **🗣️ Languages**
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,go,rust,solidity,java,cpp,bash&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,solidity,cpp,bash&theme=dark&perline=6" />
 
 ### **🛠️ Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,notion,slack,vercel,netlify&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,notion,vercel,netlify&theme=dark&perline=7" />
 
 </div>
 
@@ -165,61 +163,58 @@ const kamalPrajapat = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Professional Highlights in Table Format -->
-## 🎯 **Professional Highlights & Impact**
+## 🎯 **What I Bring to the Table**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 **Career Achievements**
+### 💼 **Professional Journey**
 ```yaml
 experience:
-  total_years: 10+
-  projects_delivered: 50+
-  team_leadership: 5+ years
-  developers_mentored: 30+
-  open_source_contributions: Active
-
-technical_impact:
-  - Architected systems handling 10M+ requests/day
-  - Built DeFi protocols with $50M+ TVL
-  - Reduced infrastructure costs by 40%
-  - Improved deployment speed by 70%
-  - Led 3 successful product launches
+  duration: 1+ year
+  focus: Full-Stack Development & Blockchain
+  projects_completed: 15+
+  technologies_mastered: 20+
   
-specializations:
-  - Microservices Architecture
-  - System Design at Scale
-  - Cloud Native Applications
-  - Blockchain & Smart Contracts
-  - Team Building & Mentorship
+key_skills:
+  - Building responsive web applications
+  - RESTful API development & integration
+  - Smart contract development on Ethereum
+  - Database design & optimization
+  - Version control with Git/GitHub
+  - Agile development methodology
+  
+currently_working_on:
+  - Advanced React patterns
+  - AWS cloud deployment
+  - Web3 DApp development
+  - System design fundamentals
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 📜 **Certifications & Recognition**
+### 🎓 **Learning & Growth**
 ```yaml
-cloud_certifications:
-  - AWS Solutions Architect Professional
-  - AWS DevOps Engineer Professional
-  - Azure Solutions Architect Expert
-  - Google Cloud Professional Architect
-
-container_orchestration:
-  - Certified Kubernetes Administrator (CKA)
-  - Certified Kubernetes Application Developer (CKAD)
-  - Docker Certified Associate
-
-blockchain:
-  - Blockchain Council Certified Developer
-  - Ethereum Developer Certification
-  - Smart Contract Security Auditor
-
-additional:
-  - Terraform Associate Certification
-  - MongoDB Certified Developer
-  - Redis Certified Professional
+completed:
+  - MERN Stack Bootcamp
+  - Blockchain Development Course
+  - AWS Cloud Practitioner Essentials
+  - Docker & Containerization
+  
+in_progress:
+  - Advanced JavaScript Patterns
+  - Solidity Smart Contract Security
+  - System Design Fundamentals
+  - Kubernetes Basics
+  
+strengths:
+  - Quick learner with strong fundamentals
+  - Problem-solving mindset
+  - Clean code advocate
+  - Team collaboration
+  - Continuous improvement
 ```
 
 </td>
@@ -232,7 +227,7 @@ additional:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Featured Projects -->
-## 🚀 **Featured Projects & Open Source**
+## 🚀 **Featured Projects & Portfolio**
 
 <div align="center">
 
@@ -259,19 +254,19 @@ additional:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Latest Blog Posts Section -->
-## 📝 **Latest Blog Posts & Technical Writing**
+## 📝 **Blog & Learning Journey**
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Architecting Scalable Microservices: Lessons from Production](https://yourblog.com/microservices-architecture)
-- 🔐 [Web3 Security Best Practices: Complete Smart Contract Auditing Guide](https://yourblog.com/web3-security)
-- ☁️ [AWS Cost Optimization: A Senior Engineer's Playbook](https://yourblog.com/aws-optimization)
-- 👥 [Leading Engineering Teams: From Code to Culture](https://yourblog.com/engineering-leadership)
-- ⚡ [React Performance: Making Apps Lightning Fast](https://yourblog.com/react-performance)
+- 🚀 [Building My First Full-Stack Application with MERN](https://yourblog.com/first-mern-app)
+- 🔐 [Getting Started with Web3: A Beginner's Guide](https://yourblog.com/web3-guide)
+- ☁️ [Deploying React Apps on AWS: A Complete Guide](https://yourblog.com/aws-deployment)
+- 💡 [5 JavaScript Tips That Changed How I Code](https://yourblog.com/js-tips)
+- ⚡ [My Journey from Beginner to Full-Stack Developer](https://yourblog.com/developer-journey)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
   
-➡️ **[Read More on My Blog](https://yourblog.com)** | 📚 **[View All Articles](https://yourblog.com/articles)**
+➡️ **[Read More on My Blog](https://yourblog.com)** | 📚 **[View All Posts](https://yourblog.com/articles)**
 
 </div>
 
@@ -281,7 +276,7 @@ additional:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Services & Collaboration -->
-## 💼 **Services & Collaboration Opportunities**
+## 💼 **Open for Opportunities**
 
 <div align="center">
 
@@ -289,23 +284,23 @@ additional:
 <tr>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="80" /><br/>
-<b>Technical Advisory</b><br/>
-<sub>Strategic guidance for<br/>complex technical challenges</sub>
+<b>Freelance Projects</b><br/>
+<sub>Web development &<br/>blockchain solutions</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="80" /><br/>
-<b>Project Collaboration</b><br/>
-<sub>Open source & innovative<br/>blockchain/cloud projects</sub>
+<b>Collaboration</b><br/>
+<sub>Open source &<br/>innovative projects</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80" /><br/>
-<b>Speaking Engagements</b><br/>
-<sub>Tech conferences,<br/>workshops & webinars</sub>
+<b>Full-Time Roles</b><br/>
+<sub>Looking for developer<br/>opportunities</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-4675-8957-541b6e4b6003.png" width="80" /><br/>
-<b>Mentorship</b><br/>
-<sub>Code reviews &<br/>career guidance</sub>
+<b>Learning Together</b><br/>
+<sub>Tech discussions &<br/>knowledge sharing</sub>
 </td>
 </tr>
 </table>
@@ -318,36 +313,30 @@ additional:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Engineering Philosophy -->
-## 💭 **Engineering Philosophy & Values**
+## 💭 **Developer Philosophy & Values**
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
 
 ```typescript
-const engineeringPrinciples = {
+const myPhilosophy = {
     code: {
-        quality: "Code is poetry written for machines, read by humans",
-        simplicity: "The best code is the code that doesn't need to be written",
-        maintainability: "Write code that your future self will thank you for"
-    },
-    
-    systems: {
-        scalability: "Design for scale from day one, optimize when needed",
-        resilience: "Plan for failure, build for recovery",
-        complexity: "Complexity is the enemy of reliability"
-    },
-    
-    teams: {
-        leadership: "Great engineers build great teams, not just great systems",
-        empowerment: "Empower people, automate processes, eliminate bottlenecks",
-        culture: "Culture eats strategy for breakfast"
+        quality: "Write clean code that others can understand",
+        learning: "Every bug is a lesson, every project a growth opportunity",
+        simplicity: "Simple solutions are often the best solutions"
     },
     
     growth: {
-        learning: "Never stop exploring. Never stop growing.",
-        sharing: "Knowledge grows when shared",
-        impact: "Build products that matter, solve real problems"
+        mindset: "Stay curious, stay hungry, stay humble",
+        practice: "Code every day, learn something new every week",
+        community: "Learn from others, share what you know"
+    },
+    
+    work: {
+        approach: "Focus on problems, not just technologies",
+        collaboration: "Great products are built by great teams",
+        passion: "Love what you build, build what you love"
     }
 };
 ```
@@ -357,20 +346,20 @@ const engineeringPrinciples = {
 <table>
 <tr>
 <td align="center">
-<h3>🎯 Excellence</h3>
-Pursue mastery in every<br/>line of code
+<h3>🎯 Growth</h3>
+Constant learning and<br/>skill improvement
 </td>
 <td align="center">
-<h3>🤝 Collaboration</h3>
-Great products are built<br/>by great teams
+<h3>🤝 Teamwork</h3>
+Collaboration and<br/>knowledge sharing
 </td>
 <td align="center">
 <h3>🚀 Innovation</h3>
-Embrace new technologies<br/>& methodologies
+Exploring new tech<br/>and approaches
 </td>
 <td align="center">
-<h3>📚 Learning</h3>
-Stay curious, stay<br/>humble, stay hungry
+<h3>📚 Quality</h3>
+Writing maintainable<br/>and clean code
 </td>
 </tr>
 </table>
@@ -383,14 +372,14 @@ Stay curious, stay<br/>humble, stay hungry
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Connect Section -->
-## 🤝 **Let's Connect & Build Something Amazing**
+## 🤝 **Let's Connect & Build Together**
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/216655861-8fd0e4d5-6b57-4f7e-91f5-e7c1c2f8e1f3.gif" width="200">
 
-### **Ready to collaborate on your next big idea?**
-### **Let's turn your vision into reality!**
+### **Got an exciting project or opportunity?**
+### **Let's collaborate and create something amazing!**
 
 <!-- Contact Links -->
 <p>
@@ -408,7 +397,7 @@ Stay curious, stay<br/>humble, stay hungry
   </a>
 </p>
 
-### **💰 Support My Open Source Work**
+### **💰 Support My Work**
 
 <p>
   <a href="https://buymeacoffee.com/yourprofile">
@@ -416,9 +405,6 @@ Stay curious, stay<br/>humble, stay hungry
   </a>
   <a href="https://github.com/sponsors/kamalprajapat21">
     <img src="https://img.shields.io/badge/Sponsor_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"/>
-  </a>
-  <a href="https://paypal.me/yourprofile">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
 </p>
 
@@ -445,13 +431,13 @@ Stay curious, stay<br/>humble, stay hungry
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### **"Building the future, one commit at a time"**
+### **"Dream it. Code it. Build it. Repeat."**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20like%20them!&fontSize=24&fontAlign=50&fontAlignY=70&animation=twinkling)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### **⭐ Don't forget to star interesting repositories! ⭐**
+### **⭐ Don't forget to star repositories you find interesting! ⭐**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
 
