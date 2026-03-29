@@ -24,7 +24,7 @@
   <a href="mailto:kamalprajapat7117@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kamal-prajapat-b19192244/?skipRedirect=true)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yourhandle">
@@ -386,13 +386,13 @@ Writing maintainable<br/>and clean code
   <a href="mailto:kamalprajapat7117@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kamal-prajapat-b19192244/?skipRedirect=true)">
     <img src="https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Follow_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://new-portfolio-kamalprajapat21s-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Portfolio"/>
   </a>
 </p>
