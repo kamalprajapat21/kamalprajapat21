@@ -152,9 +152,9 @@ module.exports = {
 <a href="https://github.com/kamalprajapat21?tab=repositories">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamalprajapat21&repo=new-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=C9D1D9" />
 </a>
-<!-- Add more pinned repos like this: -->
-<!-- <a href="https://github.com/kamalprajapat21/repo-name">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamalprajapat21&repo=repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=C9D1D9" />
+<!-- Add more pinned repos below by duplicating and changing the repo= value -->
+<!-- <a href="https://github.com/kamalprajapat21/REPO-NAME">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamalprajapat21&repo=REPO-NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=C9D1D9" />
 </a> -->
 
 </div>
@@ -306,7 +306,11 @@ const philosophy = {
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/kamalprajapat21/kamalprajapat21/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalprajapat21/kamalprajapat21/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalprajapat21/kamalprajapat21/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kamalprajapat21/kamalprajapat21/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
